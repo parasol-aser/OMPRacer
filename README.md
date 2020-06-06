@@ -1,6 +1,6 @@
 # OMPRacer
 
-Currently our tool is onlt provided as a binary.
+Currently our tool is only provided as a binary.
 
 The easiest way to try it out is to use our [docker image](https://hub.docker.com/repository/docker/bradswain/ompracer).
 
