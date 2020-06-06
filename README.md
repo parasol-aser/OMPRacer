@@ -11,5 +11,7 @@ root@05d8f1e254af:~# ./run.sh
 ...
 ```
 
+The full JSON reports for each project will be stored into `~/reports/report/races_{project_name}.json`.
+
 We have also included a binary release under the [Releases](https://github.com/BradSwain/ompracer/releases) page.
 The binary was built for ubuntu 18 (bionic).
