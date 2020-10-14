@@ -1,6 +1,8 @@
 # OMPRacer
 
-Currently our tool is only provided as a binary.
+OMPRacer has been incorporated into Coderrect, a full fledged HPC debugging tool. Please checkout coderrect.com to download the tool (free download and use).
+
+The OMPRacer prototype appeared in SC'20 is only provided as a binary.
 
 The easiest way to try it out is to use our [docker image](https://hub.docker.com/repository/docker/bradswain/ompracer).
 
