@@ -1,6 +1,6 @@
 # OMPRacer
 
-OMPRacer has been incorporated into Coderrect, a full fledged HPC debugging tool. Please checkout coderrect.com to download the tool (free download and use).
+OMPRacer has been incorporated into [Coderrect](https://coderrect.com), a full fledged HPC debugging tool. Please checkout [coderrect.com](https://coderrect.com) to download the tool (free download and use).
 
 The OMPRacer prototype appeared in SC'20 is only provided as a binary.
 
